@@ -10,10 +10,7 @@
     <title>Template para o carousel Bootstrap</title>
 
     <!-- Principal CSS do Bootstrap -->
-    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Estilos customizados para esse template -->
-    <link href="carousel.css" rel="stylesheet">
+      <?php wp_head(); ?>
   </head>
   <body>
 
