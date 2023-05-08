@@ -9,3 +9,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: Pet Shop Senac
 
 */
+.bg  {
+    background-color: #f6edd9;
+}
+
+ul li a {
+    color: white;
+}
