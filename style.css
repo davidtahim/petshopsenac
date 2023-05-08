@@ -14,5 +14,9 @@ Text Domain: Pet Shop Senac
 }
 
 ul li a {
-    color: white;
+    color:#b85b2d;
+}
+
+.navbar-brand {
+    background-image: url(/imagens/logo.png);
 }
