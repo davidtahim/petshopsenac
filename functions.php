@@ -37,4 +37,6 @@
 	create_widget('Front Page Center', 'front-center', 'exibe no centro esquerda da página inicial');
 	create_widget('Front Page Right', 'front-right', 'exibe na lateral direita da página inicial');
 
+	create_widget('Lateral da Página', 'page', 'Exibe a barra lateral na página');
+	create_widget('Lateral do Blog', 'blog', 'Exibe a barra lateral no blog');
 ?>
