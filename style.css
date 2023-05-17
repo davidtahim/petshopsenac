@@ -18,5 +18,11 @@ ul li a {
 }
 
 .navbar-brand {
-    background-image: url(/imagens/logo.png);
+    background-image: url(http://localhost/trabalhofinal/wp-content/uploads/2023/05/logo.png);
+    display: block;
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 130px;
+    text-indent: -9999px;
+
 }
