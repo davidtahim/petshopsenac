@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="../../../../favicon.ico">
+    <meta name="description" content="Site para um pethop">
+    <meta name="author" content="David Tahim">
+    <link rel="icon" href="<?php bloginfo ('template_directory'); ?>/imagens/favicon.ico">
 
     <title>
 	<?php wp_title ('|', true,'right'); ?>	
@@ -15,7 +15,7 @@
     <!-- Principal CSS do Bootstrap -->
       <?php wp_head(); ?>
   </head>
-  <body>
+  <body <?php body_class(); ?>>
 
     <header>
       <nav class="navbar navbar-expand-md navbar-dark bg">
